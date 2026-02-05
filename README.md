@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rubabzahra13
-- 👀 I’m interested in MERN Stack Development, Unity Game Development, Devops, and UX/UI Designing
-- 🌱 I’m currently learning MLOPS
+- 👀 I’m an Agentic Ai & Fullstack Developer 
 - 📫 How to reach me: Email me @rubabzahra248@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ My LinkedIn: https://www.linkedin.com/in/nuzhat-rubab-zahra-ab553b237
